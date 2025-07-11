@@ -1,6 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzRItaoZNxXwt1uVdUHwtDpRRjmvA8Qa6FYS3w9JtJELwnHDLqgufyNq8y-aJs6jfKDBlp4N-csrChTjNzvUzjPd3qNxEoNhh1jeGd5sc8JEisPjzemFjGDSFccyYOu9Y4C1weqZfgtG51-FRrfrwIHPCHURgV_70tAyeEwUrAOxoxUG9_jaJoX1y9vE0/s1600/AfD%20_%20%20Android%2016%20Beta%201%20Blog%20Assets%20_%20Blog%20Header%20and%20Metadata%20Card_banner.png)
-
-<h1 align="center">Hi 👋, I'm Hasan GÜRGÜR</h1>
+<h1 align="center">Hello there, I'm Hasan Gürgür </h1>
 <h3 align="center">A passionate Android Developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasangurgur&label=Profile%20views&color=0e75b6&style=flat" alt="hasangurgur" /> </p>
